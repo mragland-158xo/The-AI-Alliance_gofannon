@@ -43,7 +43,7 @@ have the latest and greatest, this will work too:
 git+https://github.com/The-AI-Alliance/gofannon.git@main
 ```
 
-For more information, see our [quickstart guide](https://github.com/The-AI-Alliance/gofannon/blob/main/docs/quickstart.md).
+For more information, see our [quickstart guide](docs/quickstart.md).
 
 ## 🏆🏆 Acknowledgments 🏆🏆
 
@@ -63,7 +63,7 @@ Star `gofannon` for good karma (and to receive updates in your github feed).
 
 ## 🚲🚲 Roadmap  🚲🚲
   
-For a detailed overview of planned features and their current status, please refer to the [ROADMAP](https://github.com/The-AI-Alliance/gofannon/blob/main/ROADMAP.md).   
+For a detailed overview of planned features and their current status, please refer to the [ROADMAP](ROADMAP.md).   
 
 ## 📘📘 Documentation 📘📘
 
@@ -79,3 +79,4 @@ This project is licensed under the ASFv2 License. See the [LICENSE](https://gith
 
   
   
+# Testing PR workflow
